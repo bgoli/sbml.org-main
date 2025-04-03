@@ -22,7 +22,7 @@ The SBML Test Suite consists of several parts:
 * A collection of SBML models, together with expected results, that can be used to test interpretation of SBML files.  The tests are grouped into three subsets: **semantic** (for deterministic simulation behavior), **stochastic** (for stochastic simulation behavior), and **syntactic** (for basic parsing).  Each suite of test cases can be downloaded separately as [complete archives](http://github.com/sbmlteam/sbml-test-suite/releases).
 * The **SBML Test Runner**, a standalone application that can be used to run an application against the collection of semantic test cases, and report successes and failures.  The image below shows an example run from the SBML Test Runner:<br><br>
 <img class="center screenshot" src="example-run.png"/><br>
-* An [**online database**](http://raterule.caltech.edu/Facilities/Database) of test results provided by software authors for their SBML-compatible software packages.
+* An [**online database**](https://sbml.bioquant.uni-heidelberg.de/) of test results provided by software authors for their SBML-compatible software packages.
 
 
 ## SBML Test Suite release DOIs
