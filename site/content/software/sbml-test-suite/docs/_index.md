@@ -54,7 +54,7 @@ The bug and issue tracker for the SBML Test Suite lists pending issues and lets 
 
 The following are resources that may be relevant to developers.
 
-{{% blurb title="SBML Test Suite Database" icon="database" link="running-a-test" %}}
+{{% blurb title="SBML Test Suite Database" icon="database" link="https://sbml.bioquant.uni-heidelberg.de" %}}
 The SBML Test Suite Database publicizes software systems' support of SBML as determined by their performance on the SBML Test Suite.  Software developers can upload their test results to the database, to make them known to the world.
 {{% /blurb %}}
 
